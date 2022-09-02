@@ -1,4 +1,4 @@
-![Githublogo](https://user-images.githubusercontent.com/100915330/188116735-8668b080-11cd-41a4-be32-ee321c968104.png)
+![Leelogo](https://user-images.githubusercontent.com/100915330/188117600-e3a35839-5596-46f0-b795-c61c17c1d502.png)
 
 ### Leham (Liam) is The Name ✨
 
