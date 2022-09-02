@@ -22,7 +22,7 @@ I’m currently working on Machine Learning Projects!. I am looking to improve m
 
 ##Machine Learning
 
-<img alt="Coding" width="400" src="https://64.media.tumblr.com/c2eaf38ad512bae8bf81dea0ddba32c4/tumblr_inline_pjztabVGAb1qi734a_400.gifv">
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/c2eaf38ad512bae8bf81dea0ddba32c4/tumblr_inline_pjztabVGAb1qi734a_400.gifv">
 
 #Contact Details:
 
