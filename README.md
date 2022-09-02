@@ -8,24 +8,24 @@ I’m currently working on Machine Learning Projects!. I am looking to improve m
 
 <img alt="Coding" width="1000" length="300" src="https://1.bp.blogspot.com/-zq7aF5FREnY/Xjl1SEaKUOI/AAAAAAAIG78/wppXX0CltoA6hD8KG38CnD-S4pwpiBHLACLcBGAsYHQ/s1600/9d8f08c0-cada-4853-86e1-f972cc992879.gif">
 
-##Skills:
+## Skills:
 
-##Python 
+## Python 
 
-##SQL 
+## SQL 
 
-##Microsoft Power BI
+## Microsoft Power BI
 
-##AWS Cloud Practitioner
+## AWS Cloud Practitioner
 
-##Team Management (Agile): TRELLO dashboard management
+## Team Management (Agile): TRELLO dashboard management
 
-##Machine Learning
+## Machine Learning
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/c2eaf38ad512bae8bf81dea0ddba32c4/tumblr_inline_pjztabVGAb1qi734a_400.gifv">
 
-#Contact Details:
+# Contact Details:
 
-###Email: Leham.Greeves@gmail.com
+### Email: Leham.Greeves@gmail.com
 
 ### LinkedIn: https://www.linkedin.com/in/leham-greeves/
