@@ -2,7 +2,7 @@
 
 ### Leham (Liam) is The Name ✨
 
-Here are some ideas to get you started:
+A little about who I am  😎:
 
 I’m currently working on Machine Learning Projects!. I am looking to improve my skills and improve on more complex processes 🤓. The goal now is to improve on other forms of languages and software. The goal noe id Learing CLOUD concepts and taking the Journey in becoming a Cloud Architect. I am an Inern ExploreAI working in coloaboration with Telkom 
 
